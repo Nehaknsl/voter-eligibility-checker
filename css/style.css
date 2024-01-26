@@ -1,0 +1,23 @@
+body {
+    font-family: 'Bevan', serif;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+ }
+.custom-bg {
+    background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-business-black-gold-creative-pattern-border-background-picture-image_1182645.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
